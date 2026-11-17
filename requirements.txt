@@ -1,0 +1,10 @@
+# --- Pustaka Eksternal (Wajib di-install via pip) ---
+pandas>=2.0.0
+openpyxl>=3.1.0
+pyperclip>=1.8.2
+
+# --- Pustaka Built-in / Bawaan Standar Python (Tidak perlu di-install via pip) ---
+# sqlite3   (Untuk manajemen database lokal)
+# os        (Untuk pengaturan sistem & bersihkan layar terminal)
+# json      (Untuk pengelolaan data terstruktur)
+# datetime  (Untuk pengelolaan tanggal otomatis hari ini)
